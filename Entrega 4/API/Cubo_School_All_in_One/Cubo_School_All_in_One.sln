@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Cubo_School_All_in_One", "Cubo_School_All_in_One\Cubo_School_All_in_One.dwproj", "{E98C66B9-331A-45AC-9D90-559414D90DB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E98C66B9-331A-45AC-9D90-559414D90DB6}.Development|Default.ActiveCfg = Development
+		{E98C66B9-331A-45AC-9D90-559414D90DB6}.Development|Default.Build.0 = Development
+		{E98C66B9-331A-45AC-9D90-559414D90DB6}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD423BFA-A440-4A2A-AB21-05EAD95CAFFC}
+	EndGlobalSection
+EndGlobal
